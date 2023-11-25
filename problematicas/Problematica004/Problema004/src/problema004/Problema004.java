@@ -19,7 +19,7 @@ public class Problema004 {
         int numerador = 0;
         int denominador = 3;
         int contador = 0;
-        String cadena_A = "1 ";
+        String cadena_A = "1";
 
         while (contador <= 8) {
 
